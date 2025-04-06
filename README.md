@@ -7,26 +7,6 @@ Whether you're a student, data science enthusiast, or ML beginner, this structur
 
 ---
 
-## 📂 Project Structure
-
-```
-📁 01 Data Pre-Processing
-    ┣ 01_Data_Preprocessing.ipynb
-    ┗ Data.csv
-
-📁 02 Regression
-    ┣ 01 Simple Linear Regression
-    ┣ 02 Multi Linear Regression
-    ┣ 03 Polynomial Regression
-    ┣ 04 Support Vector Regression
-    ┣ 05 Decision Tree Regression
-    ┗ 06 Random Forest Regression
-
-📁 03 Classification
-    ┣ 01 Logistic Regression
-    ┣ 02 K-Nearest Neighbours
-    ┗ 03 SVM
-```
 
 ---
 
