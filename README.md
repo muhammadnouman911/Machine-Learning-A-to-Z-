@@ -6,6 +6,7 @@ Welcome to the **Machine Learning A to Z** repository — a complete and beginne
 Whether you're a student, data science enthusiast, or ML beginner, this structured and practical guide will help you learn machine learning step-by-step using real datasets and well-commented code.
 
 ---
+
 ## 📂 Project Structure
 
 ```
@@ -66,14 +67,6 @@ Use [Jupyter Notebook](https://jupyter.org/) or [Google Colab](https://colab.res
 
 ---
 
-## 💡 Ideal For
-
-- Students learning ML concepts
-- Beginners doing hands-on practice
-- Data science enthusiasts building their portfolio
-- Anyone preparing for ML interviews
-
----
 
 ## 📬 Contact
 
