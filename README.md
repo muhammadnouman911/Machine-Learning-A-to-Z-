@@ -67,25 +67,4 @@ Use [Jupyter Notebook](https://jupyter.org/) or [Google Colab](https://colab.res
 
 ---
 
-## 💡 Ideal For
 
-- Students learning ML concepts
-- Beginners doing hands-on practice
-- Data science enthusiasts building their portfolio
-- Anyone preparing for ML interviews
-
----
-
-## 📬 Contact
-
-For feedback, suggestions, or collaboration:  
-📧 muhammadnouman911@github.com  
-⭐ If you find this helpful, consider starring the repo!
-
----
-
-## 📄 License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
-
----
