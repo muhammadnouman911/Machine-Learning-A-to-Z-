@@ -77,3 +77,11 @@ Use [Jupyter Notebook](https://jupyter.org/) or [Google Colab](https://colab.res
 ---
 
 
+## 📬 Contact
+
+For feedback, suggestions, or collaboration:  
+📧 muhammadnouman911@github.com  
+⭐ If you find this helpful, consider starring the repo!
+
+---
+
