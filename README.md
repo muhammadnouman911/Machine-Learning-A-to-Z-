@@ -67,4 +67,13 @@ Use [Jupyter Notebook](https://jupyter.org/) or [Google Colab](https://colab.res
 
 ---
 
+## 💡 Ideal For
+
+- Students learning ML concepts
+- Beginners doing hands-on practice
+- Data science enthusiasts building their portfolio
+- Anyone preparing for ML interviews
+
+---
+
 
